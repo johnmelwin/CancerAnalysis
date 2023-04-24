@@ -5,3 +5,5 @@
 ![Cancer_Plot](https://user-images.githubusercontent.com/42464701/233954545-8c6f9e07-7dbc-4042-909f-a71c0f02a453.png)
 
 ![1](https://user-images.githubusercontent.com/42464701/233954760-db6d6036-8552-45e9-8eb7-0a3a217098b2.png)
+
+![2](https://user-images.githubusercontent.com/42464701/233955163-a19c8a79-f0ca-4944-b31b-cf5dad2c17d2.png)
