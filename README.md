@@ -43,8 +43,15 @@
 
 ## Repository Structure
 
-📁 The repository is structured as follows:
+📁 ## Files
 
+- `Cancer(DeathRate Analysis).R`: R script for analyzing cancer death rates.
+- `Cancer(Incidence Analysis).R`: R script for analyzing cancer incidence rates.
+- `Cancer_Plot3.png`: Image file representing cancer incidence in the United States.
+- `Data.xlsx`: Raw data used in the analysis.
+- `Excel Cancer Analysis.xlsx`: Additional file related to the analysis.
+
+## Interesting Plots
 
 # CancerAnalysis![Cancer_Plot3](https://user-images.githubusercontent.com/42464701/233954167-c9da58f5-1353-4537-8038-142b750a2f0e.png)
 
