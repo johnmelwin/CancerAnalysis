@@ -43,7 +43,7 @@
 
 ## Repository Structure
 
-📁 ## Files
+📁 Files
 
 - `Cancer(DeathRate Analysis).R`: R script for analyzing cancer death rates.
 - `Cancer(Incidence Analysis).R`: R script for analyzing cancer incidence rates.
